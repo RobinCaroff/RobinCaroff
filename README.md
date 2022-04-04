@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**RobinCaroff/RobinCaroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻📲  Mobile technology enthusiast and developer.
 
-Here are some ideas to get you started:
+💫 Technical Lead at [Resonantes](https://resonantes.fr/) - Mainly working on the mobile application [App-Elles](https://app-elles.fr/). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📣 Speaker and co-organizer at [GDG Nantes Android](https://gdg.community.dev/gdg-nantes-android/) and FRAUG 🐸 (French Android User Groupt).
+
+## 💬 Reach me on
+
+  * [Twitter @RobinCaroff](https://twitter.com/RobinCaroff)
+  * [LinkedIn](https://www.linkedin.com/in/robincaroff/)
+  * [SpeakerDeck](https://speakerdeck.com/robincaroff/)
