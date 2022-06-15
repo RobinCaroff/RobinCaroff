@@ -4,7 +4,7 @@
 
 💫 Technical Lead at [Resonantes](https://resonantes.fr/) - Mainly working on the mobile application [App-Elles](https://app-elles.fr/). 
 
-📣 Speaker and co-organizer at [GDG Nantes Android](https://gdg.community.dev/gdg-nantes-android/) and FRAUG 🐸 (French Android User Groupt).
+📣 Speaker and co-organizer at [GDG Nantes Android](https://gdg.community.dev/gdg-nantes-android/) and FRAUG 🐸 (French Android User Group).
 
 ## 💬 Reach me on
 
