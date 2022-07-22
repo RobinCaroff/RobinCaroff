@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👨‍💻📲  Mobile technology enthusiast and developer.
+👨‍💻📲  Mobile technology enthusiast and developer (Android and iOS native).
 
 💫 Technical Lead at [Resonantes](https://resonantes.fr/) - Mainly working on the mobile application [App-Elles](https://app-elles.fr/). 
 
