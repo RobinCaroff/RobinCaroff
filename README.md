@@ -2,7 +2,7 @@
 
 👨‍💻📲  Mobile technology enthusiast and developer (Android and iOS native).
 
-💫 Mobile Lead at [U IRIS](https://ugieiris.fr/).
+💫 Mobile Lead at [U Tech](https://ugieiris.fr/).
 
 📣 Speaker and co-organizer at [GDG Nantes Android](https://gdg.community.dev/gdg-nantes-android/) and FRAUG 🐸 (French Android User Group).
 
